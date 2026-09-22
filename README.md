@@ -29,13 +29,10 @@ Hi, I'm Shiva K N, a PUC PCMCS student and aspiring Software Engineer. I’m pas
 
 ---
 
-## 📚 Currently Learning
+## 🔥 GitHub Streak
 
-```text
-Java
-Python
-Data Structures & Algorithms
-Object-Oriented Programming
-Problem Solving
-Software Engineering
-Git & GitHub
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivuushivuu&theme=dark&hide_border=false&border_radius=10&ring=8A2BE2&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
