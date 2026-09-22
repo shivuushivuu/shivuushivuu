@@ -12,12 +12,6 @@
 
 </div>
 
----
-
-## 👋 About Me
-
-Hi, I'm **Shiva K N**.
-
 🎓 **PUC PCMCS Student**  
 💻 **Aspiring Software Engineer**  
 🧠 Passionate about **Programming & Problem Solving**  
