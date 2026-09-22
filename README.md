@@ -15,12 +15,7 @@
 ---
 
 ## 👋 About Me
-
-🎓 **PUC PCMCS Student**  
-💻 **Aspiring Software Engineer**  
-🧠 Passionate about **Programming & Problem Solving**  
-🚀 Learning **DSA, Java, Python and Software Development**  
-🔨 Building projects and improving my coding skills every day.
+Hi, I'm Shiva K N, a PUC PCMCS student and aspiring Software Engineer. I’m passionate about coding, DSA, problem solving, and building projects while continuously improving my skills.
 
 ---
 
