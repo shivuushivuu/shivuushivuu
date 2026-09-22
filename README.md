@@ -1,49 +1,35 @@
 <div align="center">
 
-# 👋 Hi, I'm **SHIVA K N**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=250&section=header&text=Shiva%20K%20N&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20%7C%20PCMCS%20Student%20%7C%20Problem%20Solver&descAlignY=65&descSize=22&descColor=ffffff" width="100%"/>
 
-### 💻 Aspiring Software Engineer | PCMCS Student | Problem Solver
+</div>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=shivuushivuu&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+<br>
 
-<br><br>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;PCMCS+Student;Java+%7C+Python+%7C+C;DSA+%7C+Problem+Solving;Building+Projects+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;PCMCS+Student;Java+%7C+Python+%7C+C;DSA+%7C+Problem+Solving;Building+Projects+%F0%9F%9A%80" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 🎓 **PUC – PCMCS Student**
-- 💻 **Aspiring Software Engineer**
-- 🧠 Interested in **DSA & Problem Solving**
-- 🚀 Learning **Java, Python and Software Development**
-- 🔨 Building projects and improving my coding skills
-- 🌱 Learning something new every day
+🎓 **PUC PCMCS Student**  
+💻 **Aspiring Software Engineer**  
+🧠 Passionate about **Programming & Problem Solving**  
+🚀 Learning **DSA, Java, Python and Software Development**  
+🔨 Building projects and improving my coding skills every day.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql,git,github,vscode" />
 
-### 🌐 Web & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### 🗄️ Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux" />
 </p>
 
 ---
@@ -51,10 +37,10 @@
 ## 📚 Currently Learning
 
 ```text
-☕ Java
-🐍 Python
-🧩 Data Structures & Algorithms
-🧠 Problem Solving
-💻 Object-Oriented Programming
-⚙️ Software Engineering
-🔧 Git & GitHub
+Java
+Python
+Data Structures & Algorithms
+Object-Oriented Programming
+Problem Solving
+Software Engineering
+Git & GitHub
