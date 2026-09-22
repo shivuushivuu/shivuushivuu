@@ -39,4 +39,4 @@ Hi, I'm Shiva K N, a PUC PCMCS student and aspiring Software Engineer. I’m pas
 
 ---
 
-**Thanks for visiting my GitHub profile! Keep learning, keep building, and keep growing. 🚀**
+## 🙏 Thanks for Visiting!
